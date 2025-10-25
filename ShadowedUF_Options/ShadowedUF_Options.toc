@@ -9,7 +9,7 @@
 ## X-Curse-Project-ID: shadowed-unit-frames
 ## X-Curse-Repository-ID: wow/shadowed-unit-frames/mainline
 
-## X-Sirus-Update: https://github.com/ButtBeware/SUF/tree/main/ShadowedUF_Options
+## X-Sirus-Update: https://github.com/ButtBeware/SUF/tree/master/ShadowedUF_Options
 
 #@no-lib-strip@
 libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
@@ -17,5 +17,6 @@ libs\AceGUI-3.0\AceGUI-3.0.xml
 libs\AceGUI-3.0-SharedMediaWidgets\widget.xml
 libs\AceConfig-3.0\AceConfig-3.0.xml
 #@end-no-lib-strip@
+
 
 config.lua
