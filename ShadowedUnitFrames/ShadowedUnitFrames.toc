@@ -9,7 +9,7 @@
 ## X-Curse-Project-Name: Shadowed Unit Frames
 ## X-Curse-Project-ID: shadowed-unit-frames
 ## X-Curse-Repository-ID: wow/shadowed-unit-frames/mainline
-## X-Sirus-Update: https://github.com/ButtBeware/SUF/tree/main/ShadowedUnitFrames
+## X-Sirus-Update: https://github.com/ButtBeware/SUF/tree/master/ShadowedUnitFrames
 
 #@no-lib-strip@
 libs\LibStub\LibStub.lua
@@ -52,4 +52,5 @@ modules\incheal.lua
 modules\range.lua
 modules\empty.lua
 modules\druid.lua
+
 
